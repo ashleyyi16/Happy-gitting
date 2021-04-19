@@ -9,6 +9,8 @@ Here is an example how to add cute dolphin images:
 
 ![A cute dolphi](cute-dolphin.jpeg)
 
+![Happy Dolphin](cutedolphin2.jpeg)
+
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
 
